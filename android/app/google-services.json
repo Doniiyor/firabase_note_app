@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454404757889",
+    "project_id": "firabase-not-app",
+    "storage_bucket": "firabase-not-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454404757889:android:53a201cc2067b3ea01f080",
+        "android_client_info": {
+          "package_name": "com.example.firabasenoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454404757889-qbsm7d6hfdfh6n7s38k6mgn396n7arpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMU6iAQW2l9OdnlysNeadWUtdPDLv-gxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454404757889-qbsm7d6hfdfh6n7s38k6mgn396n7arpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
